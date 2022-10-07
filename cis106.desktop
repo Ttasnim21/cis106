@@ -1,0 +1,7 @@
+#!/usr/bin/evn xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/snap/bin/firefox https://cis106.com
+Name=cis106
+Icon=/HOME/ttasnim21/.cis106.png
