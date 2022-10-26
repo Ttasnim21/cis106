@@ -40,5 +40,4 @@ Examples: 1.To copy a file: `cp Downloads/wallpapers.zip Pictures/`
 * Practice 3
   ![p3](p3.png)
 * practice 4
-  ![p4]()
- 
+  ![p4](p4.png)
