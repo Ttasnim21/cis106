@@ -78,29 +78,23 @@ SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol th
  4. Testing if Apache is running
  5. Fix network Settings
  6. Fixing IP address for the server
- 7. Setting up SSH 
+ 7. Setting up SSH
     ![png](setting%20up%20ssh%20pt.1.png)
-    In this image,as you can see we had to install SSH and open SSH server. And after the SSH was successfully installed in our computer, we started connecting our computer with our server by using SSh snd the server's IP address.
     ![png](setting%20up%20ssh%20pt.2.png)
-    Here, we had to generate a key for SSH so we can easily connect to our server.
     ![png](setting%20up%20ssh%20pt.3.png)
     ![png](setting%20up%20ssh%20pt.4..png)
     ![png](setting%20up%20ssh%20pt.5..png)
-    Now, we have successfully connected our server using SSH.
 
-1. Virtual Hosts
+8. Virtual Hosts
    ![png](virtual%20hosts%201.1.png)
-   Here, I created a name for my project. Created a folder in tthe www directory. I adjusted the permission for the applications. I created a simple html page and put it in the website directory.
    ![png](virtualhosts1.2.png)
    ![png](virtual%20hosts%201.3.png)
-   Here, I enabled the website conf file and reloaded apache2. I did a configeration test for apache2. And after that I restarted apsche2.
 
-2. Creating website
+9. Creating website
     ![png](creating%20website.png)
     ![png](creating%20website%201.1.png)
     ![png](creating%20website%201.2.png)
-    Here, I copied everything from the bootstrap github pages and put it in my website.
 
-3.  The project
+10. The project
     ![png](the%20website.png)
     ![png](the%20website%201.1.png)
